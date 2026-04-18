@@ -11,8 +11,11 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# What Do We Do
-IOP Systems are a small but experienced group working on making performance monitoring and testing accessible, reproducible, and fast.
+# What We Do
+IOP Systems are a small but experienced group working on providing reliable and accessible performance insights, which means:
+- revelations ground in rich telemetry;
+- analytics guided by expertise and production experience;
+- focus tailored to the application context.
 
 Our website is [IOP Systems](https://iop.systems)
 
